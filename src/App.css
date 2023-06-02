@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap");
+
 .App {
   text-align: center;
 }
@@ -35,4 +37,26 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.hiraganaCharacter {
+  font-size: 180px;
+  margin: 20px 0px;
+}
+
+.vocabPhrase {
+  font-size:90px;
+  margin: 20px 0px;
+}
+
+.romajiBox {
+  font-size: 40px;
+  font-family: "Roboto Mono", monospace;
+  text-align: center;
+}
+
+.attemptCrosses {
+  color: red;
+  font-size: 50px;
+  margin: 20px 0px;
 }

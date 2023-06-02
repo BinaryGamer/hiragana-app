@@ -1,0 +1,76 @@
+{
+    "contents": [
+        {
+            "question": "おはよう",
+            "answer": "Good Morning."
+        },
+        {
+            "question": "おはようございます",
+            "answer": "Good Morning. (polite)"
+        },
+        {
+            "question": "こんにちは",
+            "answer": "Good Afternoon."
+        },
+        {
+            "question": "こんばんは",
+            "answer": "Good Evening."
+        },
+        {
+            "question": "さようなら",
+            "answer": "Good-bye."
+        },
+        {
+            "question": "おやすみ（なさい）。",
+            "answer": "Good night."
+        },
+        {
+            "question": "ありがとう",
+            "answer": "Thank you."
+        },
+        {
+            "question": "ありがとうございます。",
+            "answer": "Thank you. (polite)"
+        },
+        {
+            "question": "すみません",
+            "answer": "Excuse me.; I'm sorry."
+        },
+        {
+            "question": "いいえ",
+            "answer": "No.; Not at all."
+        },
+        {
+            "question": "いってきます。",
+            "answer": "I'll go and come back."
+        },
+        {
+            "question": "いってらっしゃい。",
+            "answer": "Please go and come back."
+        },
+        {
+            "question": "ただいま。",
+            "answer": "I'm home."
+        },
+        {
+            "question": "おかえり（なさい）。",
+            "answer": "Welcome home."
+        },
+        {
+            "question": "いただきます",
+            "answer": "Thank you for the meal (before eating)"
+        },
+        {
+            "question": "ごちそうさま（でした）。",
+            "answer": "Thank you for the meal (after eating)"
+        },
+        {
+            "question": "はじめまして。",
+            "answer": "How do you do?"
+        },
+        {
+            "question": "よろしく　おねがいします。",
+            "answer": "Nice to meet you."
+        }
+    ]
+}
